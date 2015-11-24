@@ -7,7 +7,7 @@
 
 <?php      
          //Connect to Oracle       
-        $conn = oci_connect("USERNAME", "PASSWORD", "(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.scs.ryerson.ca)(PORT=1521))(CONNECT_DATA=(SID=orcl)))");
+        $conn = oci_connect("USERNAME", "PASSWORD", "(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=HOST_NUMBER)(PORT=PORT_NUM))(CONNECT_DATA=(SID=orcl)))");
         
         if (!$conn)
             {
