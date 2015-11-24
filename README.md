@@ -30,4 +30,4 @@ See connect.php
 GUI application 
 ---------------
 See workspace folder
-NOTE: workspace only contain one example of insertion, modification, and deletion in order to show functionality, complete GUI can be provided upon request. 
+NOTE: workspace only contains one example of insertion, modification, and deletion in order to show functionality, complete GUI can be provided upon request. 
