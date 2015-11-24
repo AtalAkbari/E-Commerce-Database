@@ -23,7 +23,7 @@ See databse.sql
 
 Connecting database to web application 
 --------------------------------------
-To connect we must first install the OCI8 extension on our systems                                                                                      Instructions: http://www.oracle.com/technetwork/articles/dsl/technote-php-instant-12c-2088811.html                            
+To connect we must first install the OCI8 extension on our systems:                                                             http://www.oracle.com/technetwork/articles/dsl/technote-php-instant-12c-2088811.html                            
 See connect.php
 
 GUI application 
