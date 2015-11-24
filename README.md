@@ -5,7 +5,6 @@ E-Commerce Database - Web application + Oracle 11g SQL Database
 
 About 
 -----
-Database project 
 This project is a small and lightweight E-Commerce database application example.
 It was developed to practise creating SQL databases and transforming these databases into working web applications.
 The follow project was created using Orcale 11g, PHP, HTML/CSS, and Javascript.
