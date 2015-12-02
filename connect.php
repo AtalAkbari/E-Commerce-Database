@@ -10,8 +10,5 @@
                     echo $m['message'], "\n";
                      exit;
             } 
-       else 
-	   {
-                 
-        }	            
+              
 ?>
