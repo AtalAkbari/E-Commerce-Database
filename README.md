@@ -9,8 +9,8 @@ This project is a small and lightweight E-Commerce database application example.
 It was developed to practise creating SQL databases and transforming these databases into working web applications.
 The follow project was created using Orcale 11g, PHP, HTML/CSS, and Javascript.
 
-GUI can be viewed at www2.scs.ryerson.ca/~azakbari/database.php
-NOTE: Oracle 11g has been disconnected for security reasons 
+
+
 
 
 
