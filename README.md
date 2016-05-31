@@ -18,7 +18,7 @@ Database creation: SQL
 ----------------------
 1) ER MODEL : Creating entity relation model                                                                                  
 2) SCHEMA DESIGN :  Use Oracle to create the tables derived from ER model                                                     
-3) NORMALIZATION : Improce database effceincy by converting database into 3CNF/BCNF                                           
+3) NORMALIZATION : Improve database effceincy by converting database into 3CNF/BCNF                                           
 See databse.sql
 
 Connecting database to web application 
