@@ -29,4 +29,4 @@ See connect.php
 GUI application 
 ---------------
 See workspace folder
-NOTE: workspace only contains one example of insertion, modification, and deletion in order to show functionality, complete GUI can be provided upon request. 
+NOTE: workspace only contains one example of insertion, modification, and deletion in order to show functionality. Since insertion, modification and deletion doesn't require retriving information. Therefore, the php scripts only retrive entered information from a HTML form and send them to our database.
